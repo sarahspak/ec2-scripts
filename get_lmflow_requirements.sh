@@ -1,4 +1,4 @@
-cd /home/user/ubuntu/LMFlow
+cd /home/ubuntu/LMFlow
 pip install -r requirements.txt
 
 # add python packages installed to PATH
